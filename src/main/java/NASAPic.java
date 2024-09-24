@@ -64,7 +64,7 @@ public class NASAPic {
 
     @Override
     public String toString() {
-        return "NasaPicturu -> {" +
+        return "NASAPic -> {" +
                 "\ncopyright = '" + copyright + '\'' +
                 ",\ndate = '" + date + '\'' +
                 ",\nexplanation = '" + explanation + '\'' +
